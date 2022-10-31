@@ -1,0 +1,42 @@
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 1400px;
+
+}
+
+.home img {
+    float: left;
+    width: 100%;
+    max-width: 600px;
+}
+
+.about {
+    font-size: 20px;
+    margin: 15px 20px 15px 20px;
+}
+
+.about b {
+    font-size: 30px;
+}
+
+.about p {
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+}
+
+
+@media (max-width: 960px) {
+    .home img {
+        float: none;
+    }
+
+    .about {
+        font-size: 15px;
+    }
+}

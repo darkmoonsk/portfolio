@@ -6,13 +6,26 @@
     height: 250px;
     /* background: url("https://c1.alamy.com/thumbs/ww2g75/colorful-galaxy-stars-texture-as-background-seamless-pattern-ww2g75.jpg") */
     background: linear-gradient(0deg, rgba(29,29,29,1) 0%, rgba(38,38,38,1) 35%, rgba(48,48,48,1) 85%);
+    color: white;
+    margin-bottom: 20px;
+}
 
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 50px;
     
 }
 
-.header h1 {
-    margin-left: 200px;
-    margin-right: 50px;
+.logo img {
+    width: 150px;
+    border-radius: 20%;
+}
+
+.logo h1 {
+    font-size: 18px;
 }
 
 .menu {
@@ -38,15 +51,14 @@
     color: black;
 }
 
-@media(max-width: 768px) {
+@media(max-width: 860px) {
     .header{
-        flex-wrap: wrap;
         flex-direction: column;
         align-items: center;
         justify-content: center;
     }
 
-    .header h1 {
+    .logo {
         margin: 0px;
     }
 

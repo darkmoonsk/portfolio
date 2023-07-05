@@ -1,0 +1,30 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 0;   
+    align-items: center;
+    color: #fff;
+    background: rgb(30, 30, 60);
+    min-height: 600px;
+}
+
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}

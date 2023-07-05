@@ -6,13 +6,12 @@
     width: 100%;
     max-width: 1200px;
     min-height: 600px;
-    padding: 2rem;
+    padding: 2.5rem;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .container img {
-    width: 70%;
-    height: 400px;
+    width: 60%;
 }
 
 .info {
@@ -37,7 +36,7 @@
 }
 
 .info button {
-    margin-top: 2rem;
+    margin: 2rem 0;
     align-items: center;
     appearance: none;
     background-color: #fcfcfd;

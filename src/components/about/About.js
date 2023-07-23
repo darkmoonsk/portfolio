@@ -14,7 +14,7 @@ function About() {
                     </p>
                     <p>
                         Trabalhei 1 ano como freelancer em Desenvolvimento de Games com
-                        GameMaker, criando diversos sistemas, como por exemplo:
+                        GameMaker, criando diversos sistemas, como:
                         Inventário, Diálogos, Batalha, Loja, Missões, Save e Loading,
                         Animações e IA.
                     </p>  

@@ -9,6 +9,7 @@ function ProjectCard(props) {
         <div className={styles.info}>
             <h2>{props.name}</h2>
             <p>{props.description}</p>
+            <div>{props.description2}</div>
             <a href={props.url} target="_blanc">
                   <button>Ver projeto</button>
             </a>

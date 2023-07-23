@@ -8,13 +8,25 @@ function Home() {
         <div className={styles.home}>
             <Projects>
                 <ProjectCard 
+                    imgUrl="./images/projects/ministry-3-devices-black.png" 
+                    url="http://ministry.brunosouzadev.com/"
+                    name="Ministry"
+                    description="Plataforma para gerenciar relatórios teocráticos"
+                    description2={
+                        <>
+                            <p>Usuario de teste: test@test.com</p>
+                            <p>Senha: test123456</p>
+                        </>
+                    }
+                />
+                <ProjectCard 
+                    inverted
                     imgUrl="./images/projects/disneyplus-3-devices-black.png" 
                     url="http://disneyplus.brunosouzadev.com/"
                     name="Disney+"
-                    description="Recriação do front-end do Disney+"
+                    description="Recriação do front-end do Disney+, usando React, Redux, React Slick, Styled Components"
                 />
                 <ProjectCard
-                    inverted
                     imgUrl="./images/projects/worldcup-3-devices-black.png" 
                     url="http://worldcup2022.brunosouzadev.com/"
                     name="World Cup"

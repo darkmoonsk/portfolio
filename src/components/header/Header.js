@@ -8,7 +8,7 @@ function Header() {
                     <h3>Olá, eu sou Bruno Souza</h3>
                     <a href="https://www.linkedin.com/in/brunosouzadkm/" target="_blanc"><img src="./images/linkedin.svg" alt="Icone do linkedin" /></a>
                     <a href="https://github.com/darkmoonsk" target="_blanc"><img src="./images/github.svg" alt="Icone do github" /></a>
-                    <img src="./images/curriculo.svg" alt="Icone do download do curriculo" /> 
+                    <a href="./Curriculo-Bruno-20-06-2023.pdf" ><img src="./images/curriculo.svg" alt="Icone do download do curriculo" /></a> 
                 </div>
                 <h1>Desenvolvedor Fullstack</h1>
                 <p>Tenho 26 anos e sou Engenheiro de Software com 2 anos de experiencia trabalhando como freelancer em Desenvolvimento de Games e com Front-end na Alura Latam</p>

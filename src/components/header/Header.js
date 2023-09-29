@@ -9,7 +9,7 @@ function Header() {
                     <h3 className="animate__animated animate__fadeInDown">Olá, eu sou Bruno Souza</h3>
                     <a href="https://www.linkedin.com/in/brunosouzadkm/" target="_blanc"><img src="./images/linkedin.svg" alt="Icone do linkedin" /></a>
                     <a href="https://github.com/darkmoonsk" target="_blanc"><img src="./images/github.svg" alt="Icone do github" /></a>
-                    <a href="./Curriculo-Bruno-16-08-2023.pdf" ><img src="./images/curriculo.svg" alt="Icone do download do curriculo" /></a> 
+                    <a href="./Curriculo-Bruno-28-09-2023.pdf" ><img src="./images/curriculo.svg" alt="Icone do download do curriculo" /></a> 
                 </div>
                 <h1 className="animate__animated animate__fadeInDown" >Desenvolvedor Fullstack</h1>
                 <p className="animate__animated animate__fadeInDown" >Tenho 26 anos e sou Engenheiro de Software com 2 anos de experiencia trabalhando como freelancer em Desenvolvimento de Games e com Front-end na Alura Latam</p>

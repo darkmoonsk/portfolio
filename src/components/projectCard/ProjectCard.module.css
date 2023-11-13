@@ -11,6 +11,7 @@
 }
 
 .container img {
+    padding: 0 2rem;
     width: 60%;
 }
 
@@ -37,7 +38,7 @@
 }
 
 .info button {
-    margin: 2rem 0;
+    margin: 1rem 0;
     align-items: center;
     appearance: none;
     background-color: #fcfcfd;

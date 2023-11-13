@@ -47,6 +47,9 @@ function ProjectCard(props) {
             <a href={props.url} target="_blanc">
                   <button>Ver projeto</button>
             </a>
+            <a href={props.gitUrl ?? "#"} target="_blanc">
+                  <button>Repositório do Projeto</button>
+            </a>
         </div>
         { props.inverted ? 
           <img alt="Imagem do projeto" src={props.imgUrl} />

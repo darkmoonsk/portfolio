@@ -3,8 +3,6 @@
     display: flex;
     justify-content: center;
     background: linear-gradient( to bottom,  rgba(39,103,187,1) 10.4%, #0E2954 87.7% );
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-    margin-bottom: 2rem;
 }
 
 .container {

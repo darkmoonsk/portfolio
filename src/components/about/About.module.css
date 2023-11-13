@@ -23,8 +23,28 @@
     margin-bottom: 20px;
 }
 
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+}
+
 .content p {
     font-size: 1.2rem;
-    line-height: 1.5;
+    line-height: 1.8;
     margin-bottom: 20px;
+}
+
+.content a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 700;
+    transition: all 0.2s ease-in-out;
+}
+
+.quote {
+    font-size: 2.5rem;
+    vertical-align: middle;
 }

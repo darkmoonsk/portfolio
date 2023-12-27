@@ -1,4 +1,3 @@
-import WaveShape from "../svgs/WaveShape";
 import styles from "./Header.module.css";
 
 function Header() {
@@ -13,7 +12,7 @@ function Header() {
                     <a href="./Curriculo-Bruno-28-09-2023.pdf" ><img src="./images/curriculo.svg" alt="Icone do download do curriculo" /></a> 
                 </div>
                 <h1 className="animate__animated animate__fadeInDown" >Desenvolvedor Fullstack</h1>
-                <p className="animate__animated animate__fadeInDown" >Tenho 26 anos e sou Engenheiro de Software com 2 anos de experiencia trabalhando como freelancer em Desenvolvimento de Games e com Front-end na Alura Latam</p>
+                <p className="animate__animated animate__fadeInDown" >Tenho 26 anos e sou Engenheiro de Software com 3 anos de experiencia trabalhando como freelancer em Desenvolvimento de Games e com Front-end na Alura Latam</p>
                 <div className={styles.skills}>
                     <h2>Minhas Habilidades:</h2>
                     <div className={styles["skills-container"]}>
